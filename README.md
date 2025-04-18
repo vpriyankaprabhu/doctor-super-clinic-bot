@@ -1,7 +1,3 @@
-Here's a simpler version of the `README.md` without smilies:
-
----
-
 # Doctor Super Clinic Bot
 
 A Python-based chatbot application that helps users book doctor appointments based on their symptoms.
@@ -162,4 +158,3 @@ python app-without-functioncalling.py
 
   _Example response_:  
   "Thank you for using our service. Take care!"
-```
